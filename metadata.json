@@ -1,0 +1,7 @@
+{
+  "name": "PrintSaaS - ERP for Printing & Visual Communication",
+  "description": "A complete multi-tenant ERP solution for the printing industry with production tracking, financial management, and customer CRM.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
